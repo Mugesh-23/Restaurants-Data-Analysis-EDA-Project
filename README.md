@@ -1,6 +1,6 @@
 ## Restaurants Data Analysis & EDA Project
-
-
+## Data_set
+https://drive.google.com/drive/folders/1EpTqh_eYv3zSkbcs1xOL7rDweK4CdozI?usp=sharing
 ## 1. Project Introduction
 
 - Dataset: Restaurants, Menu, Orders, Food Items
@@ -284,6 +284,7 @@ ORDER BY city, sales_rank;
 - Sales data shows anomalies, including negative values, which point to the need for better data validation. 
 
 - Customer behavior indicates that people make repeat visits to a few key restaurants, suggesting strong loyalty patterns.
+
 
 
 
